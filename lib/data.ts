@@ -403,8 +403,8 @@ export const personalInfo = {
   name: "Zaheer Afkar",
   title: "Senior Full-Stack Software Engineer",
   location: "San Antonio, TX",
-  email: "zaheerafkar.web@gmail.com",
-  phone: "(510) 974-7247",
+  email: "zaheerahmed.dev@gmail.com",
+  phone: "(469) 312-6969",
   summary:
     "Experienced Senior Software Engineer with 8 years of expertise in full-stack development, leading teams, and delivering high-quality, scalable solutions. Proficient in modern web technologies, cloud platforms, and agile methodologies. Adept at mentoring teams, driving innovation, and ensuring project success.",
   education: {
